@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jeremiahb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jerbob.me
+  * I am jeremiahb (https://keybase.io/jeremiahb) on keybase.
+  * I have a public key ASDgHzAApObNykedKp20uGQXoG_uPcJYEuDSTkvyPJbJRQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e01f3000a4e6cdca479d2a9db4b86417a06fee3dc25812e0d24e4bf23c96c9450a",
+      "host": "keybase.io",
+      "kid": "0120e01f3000a4e6cdca479d2a9db4b86417a06fee3dc25812e0d24e4bf23c96c9450a",
+      "uid": "3fcc7886dcd48c440121022bdab8ea19",
+      "username": "jeremiahb"
+    },
+    "merkle_root": {
+      "ctime": 1606383454,
+      "hash": "d9898b9cbd13b9a065fc936eb272786fbbcfc31e9b275476149ea857a556a27ae151d208135ef31620e882199cc03377c38164bef7dde10e0a49731d7454b5c4",
+      "hash_meta": "e9c954fb25f82912cefbca4699fdfcf556d9e227ec74a475149ad31ccbef348f",
+      "seqno": 18231086
+    },
+    "service": {
+      "entropy": "VCg/kbt3mu69vdabke/Voqn+",
+      "hostname": "jerbob.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1606383473,
+  "expire_in": 504576000,
+  "prev": "a4f5d16234297d92096f57ed502317aee2ffcd88006df5b8349687eb252c8ca0",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4B8wAKTmzcpHnSqdtLhkF6Bv7j3CWBLg0k5L8jyWyUUKp3BheWxvYWTESpcCVMQgpPXRYjQpfZIJb1ftUCMXruL/zYgAbfW4NJaH6yUsjKDEIImpIXM6OpJtkECxxDmBZWy8YGNSDIMxKnK/At1sBINfAgHCo3NpZ8RAFBqZNb2hcmBUeVNiQPOn7d8FW2CM+wyujQpiHoV+UyD+CSHGUWcPShZYHqHKabtV9C36/KIuj/gYyFhmb/PAB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBWT9+qx7mdMofEkE/VXstk11iuK73oH4FF7xKoWteYRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeremiahb
+
+==================================================================
