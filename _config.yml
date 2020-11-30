@@ -41,8 +41,11 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: /archive
     url: /archive
 
-  - title: About
+  - title: /about
     url: /about
+
+  - title: /uses
+    url: /2020/11/30/uses/
