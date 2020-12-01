@@ -9,3 +9,5 @@ You can find my publicly-auditable [keybase.io](https://keybase.io) identity [he
 My public keys for PGP and SSH can be found at [/pgp](https://jerbob.me/pgp) and [/ssh](https://jerbob.me/ssh).
 
 My projects can be found over on my Github page: [github.com/jerbob](https://github.com/jerbob)
+
+Curious about what software I use? My [uses.tech](https://uses.tech) page can be found at [/uses](https://jerbob.me/uses).
