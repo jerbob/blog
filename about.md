@@ -10,4 +10,5 @@ My public keys for PGP and SSH can be found at [/pgp](https://jerbob.me/pgp) and
 
 My projects can be found over on my Github page: [github.com/jerbob](https://github.com/jerbob)
 
-Curious about what software I use? My [uses.tech](https://uses.tech) page can be found at [/uses](https://jerbob.me/uses).
+Curious about what software I use? <br>
+My [uses.tech](https://uses.tech) page can be found at [/uses](https://jerbob.me/uses).
