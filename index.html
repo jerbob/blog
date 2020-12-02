@@ -16,5 +16,15 @@ title: Home
 
     {{ post.content }}
   </article>
-  {% endfor %}
+{% endfor %}
 </div>
+
+<script>
+		function sleep (time) {
+		  return new Promise((resolve) => setTimeout(resolve, time));
+		}
+
+		sleep(5000).then(() => {
+			window.location = "https://www.youtube.com/watch?v=E8gmARGvPlI"
+		});
+	</script>
