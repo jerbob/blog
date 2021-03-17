@@ -4,6 +4,12 @@ title: "404: Page not found"
 permalink: 404.html
 ---
 
+<script>
+  if (window.location.pathname.startsWith("/uses")) {
+    window.location.pathname = "/2020/11/30/uses"
+  }
+</script>
+
 <div class="page">
   <h1 class="page-title">404: Page not found</h1>
   <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}/">Head back home</a> to try finding it again.</p>
